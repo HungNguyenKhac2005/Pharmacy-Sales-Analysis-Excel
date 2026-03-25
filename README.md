@@ -20,9 +20,9 @@ Data Visualization: Thiết kế Dashboard tương tác với các Slicer giúp 
 
 ### 3. Các Insights quan trọng
 
-(Ví dụ): Doanh thu tập trung 40% vào quý 4 do các chương trình khuyến mãi.
+Doanh thu tập trung 40% vào quý 4 do các chương trình khuyến mãi.
 
-(Ví dụ): Danh mục hàng Điện tử có tỷ lệ hoàn trả cao nhất (15%), cần kiểm tra lại khâu vận chuyển.
+Danh mục hàng Điện tử có tỷ lệ hoàn trả cao nhất (15%), cần kiểm tra lại khâu vận chuyển.
 
 ### 4. Hình ảnh Dashboard
 
