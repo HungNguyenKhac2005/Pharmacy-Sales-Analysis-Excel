@@ -26,5 +26,8 @@ Danh mục hàng Điện tử có tỷ lệ hoàn trả cao nhất (15%), cần 
 
 ### 4. Hình ảnh Dashboard
 
+Dashboard tab1
 ![Dashboard Screenshot](Screenshots/Dashboard_tab1.jpg)
+
+Dashboard tab2
 ![Dashboard Screenshot](Screenshots/Dashboard_tab2.jpg)
